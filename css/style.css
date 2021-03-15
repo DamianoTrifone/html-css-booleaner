@@ -1,3 +1,6 @@
+#generale{
+    width: auto;
+}
 
 header {
 background-image: url(../img/pattern.png);
@@ -21,4 +24,9 @@ background-image: url(../img/pattern.png);
 
 .intestazione-tabella{
     background-color: royalblue;
+}
+
+#interesse{
+    color: grey;
+    font-weight: bold;
 }
