@@ -1,6 +1,9 @@
+header {
+    background-image: url(../img/pattern.png);
+    height: 100px;
+}
 .logo{
-    width: 50px;
-    background-image:url(img/pattern.png)
+    width: 150px;
 }
 
 .sottotitolo{
@@ -9,4 +12,12 @@
 
 #evidenziato{
     background-color: yellow;
+}
+
+.col {
+    background-color: lightblue;
+}
+
+.intestazione-tabella{
+    background-color: royalblue;
 }
