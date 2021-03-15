@@ -7,6 +7,6 @@
     color: grey;
 }
 
-.descrizione-foto{
-    height: 200px;
+#evidenziato{
+    background-color: yellow;
 }
